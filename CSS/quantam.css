@@ -1,0 +1,214 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../Images/qp-bg-lineart.png);
+    background-size: auto;
+    background-position: -525px 50px;
+    background-repeat: no-repeat;   
+    background-color: rgba(255, 255, 255, 0.644);
+}
+.intro{
+    width: 650px;
+    background: rgba(255, 255, 255, 0);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(0, 0, 0);
+    font-family: 'Century Gothic',sans-serif;
+  }
+.logo{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+.game-overhead{    width: 650px;
+    background: rgba(255, 255, 255, 0);
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Century Gothic',sans-serif;    
+}
+.games{
+    width: 650px;
+    background: rgba(255, 255, 255, 0);
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Century Gothic',sans-serif;
+}
+.games h4{
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+.dotalogo{
+    margin-right: 15px;
+    margin-bottom: 25px;
+    width: 250px;
+    height: 75px;
+    float: left;
+}
+.lollogo{
+    margin-right: 15px;
+    margin-bottom: 25px;
+    width: 250px;
+    height: 150px;
+    float: left;
+}
+.r6logo{
+    margin-left: 100px;
+    margin-bottom: 25px;
+    width: 250px;
+    height: 100px;
+    float: right;
+}
+.valologo{
+    margin-left: 100px;
+    margin-bottom: 25px;
+    width: 250px;
+    height: 100px;
+    float: right;
+}
+.game-row-left{
+    width: 60%;
+    margin: 100px auto 100px auto;
+    text-align: left; 
+}
+.game-row-right{
+    width: 60%;
+    margin: 100px auto 100px auto; 
+}
+.game-row-right h3{
+    margin-left: 50px;
+    text-align: right;
+}
+.promo{
+    width: 650px;
+    background: rgba(255, 255, 255, 0);
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 25%;
+    color: rgb(0, 0, 0);
+    font-family: 'Century Gothic',sans-serif;
+}
+.promo li{
+    display: inline-block;
+    margin: 30px;
+    list-style: none;
+  }
+  .promo li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+  }
+  .promo li a:hover{
+    color: #b9b9b9;
+  }
+
+.socials{  
+    width: 650px;
+    background: rgba(255, 255, 255, 0);
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    color: rgb(0, 0, 0);
+    font-family: 'Century Gothic',sans-serif;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.socials li{
+  display: inline-block;
+  margin: 30px;
+  list-style: none;
+}
+.socials li a{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-size: 60px;
+  transition: all ease-in-out 250ms;
+}
+.socials li a:hover{
+  color: #b9b9b9;
+}
+.insight{  
+    width: 650px;
+    background: rgba(255, 255, 255, 0);
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    color: rgb(0, 0, 0);
+    font-family: 'Century Gothic',sans-serif;
+}
+.con-img{
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    padding: 25px;
+}
+.insight a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+  }
+.insight a:hover{
+    color: #b9b9b9;
+  }
+  .main-redirect{
+    width: 150px;
+    background: rgba(0, 0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: rgb(7, 7, 7);
+    font-family: 'Century Gothic',sans-serif;
+  }
+  .re-button{
+    background: rgb(0, 0, 0);
+    background-image: -webkit-linear-gradient(top, rgb(0, 0, 0), rgb(255, 255, 255));
+    background-image: -moz-linear-gradient(top, rgb(0, 0, 0), rgb(239, 241, 241));
+    background-image: -ms-linear-gradient(top, rgb(0, 0, 0), rgb(255, 255, 255));
+    background-image: -o-linear-gradient(top, rgb(0, 0, 0), rgb(255, 255, 255));
+    background-image: linear-gradient(to bottom, hsl(0, 0%, 0%), rgb(0, 0, 0));
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 10px;
+    box-shadow: -1px 1px 8px 0px rgb(48, 48, 48);
+    -webkit-box-shadow: -1px 1px 8px 0px rgb(48, 48, 48);
+    -moz-box-shadow: -1px 1px 8px 0px rgb(48, 48, 48);
+    text-shadow: 4px 1px 8px rgb(48, 48, 48);
+    border: solid rgb(48, 48, 48) 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    align-self: center;
+  }
+  
+  .bottom-container{
+    background-image: url(../Images/top-bot-qp-ban.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color:  rgb(14, 13, 13);
+    padding: 25PX 0 30PX;
+  }
+  .bottom-container p{
+    text-align: justify;
+    color: white;
+  } 
