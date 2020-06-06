@@ -16,7 +16,6 @@ body{
   .box a{
     text-align: center;
     color: white;
-    text-decoration: none;
     font-size: 40px;
   }
   .box a:hover{
@@ -146,6 +145,7 @@ body{
     font-family: 'Century Gothic',sans-serif;
   }
   .project a{
+    font-size: 35px;
     text-align: center;
     color: white;
   }
